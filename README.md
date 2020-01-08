@@ -1,1 +1,2 @@
-# this is the java file
+# simple Vinit repository for learning
+
